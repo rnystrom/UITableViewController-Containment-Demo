@@ -1,4 +1,4 @@
-Tables, Search Bars, Controllers, Oh My!
+Tables, Search Bars, and Containers, Oh My!
 ======================================
 
 This project is a *really simple* example of combining [View Controller Containment](http://www.objc.io/issue-1/containment-view-controller.html) and a <code>UITableViewController</code>, all while maintaining the functionality of <code>UISearchBar</code> and <code>UISearchDisplayController</code>.
