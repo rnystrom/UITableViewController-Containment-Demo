@@ -21,5 +21,5 @@ Hopefully this project can help someone else who was stuck like I was, and I'm o
 
 ## License
 
-See [LICENSE](https://github.com/rnystrom/RNFrostedSidebar/blob/master/LICENSE).
+See [LICENSE](https://github.com/rnystrom/UITableViewController-Containment-Demo/blob/master/LICENSE).
 
