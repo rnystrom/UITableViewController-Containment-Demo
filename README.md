@@ -9,7 +9,17 @@ I've always struggled with getting this all to work properly and usually just de
 
 Thankfully, [Krzysztof Zabłocki](https://twitter.com/merowing_) ([Foldify](http://www.foldifyapp.com/) and an [awesome blog](http://www.merowing.info/)) stepped in and gave me some advice which got my gears turning.
 
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/_ryannystrom">@_ryannystrom</a> what about binding that to parent?</p>&mdash; Krzysztof Zabłocki (@merowing_) <a href="https://twitter.com/merowing_/statuses/468369324269649920">May 19, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Twitter to the rescue](https://raw.githubusercontent.com/rnystrom/UITableViewController-Containment-Demo/master/tweet.png)](https://twitter.com/merowing_/statuses/468369324269649920)
 
 Hopefully this project can help someone else who was stuck like I was, and I'm open to any contributions/suggestions!
+
+## Contact
+
+* [@_ryannystrom](https://twitter.com/_ryannystrom) on Twitter
+* [@rnystrom](https://github.com/rnystrom) on Github
+
+
+## License
+
+See [LICENSE](https://github.com/rnystrom/RNFrostedSidebar/blob/master/LICENSE).
+
